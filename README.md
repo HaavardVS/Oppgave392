@@ -1,1 +1,3 @@
 # Oppgave392
+
+hei
